@@ -4,7 +4,7 @@ Simple python script for sorting your files in folders with the file's creation 
 
 Usage:
 
-py main.py <path>
+py main.py \<path\>
 
 
 
