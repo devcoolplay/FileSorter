@@ -7,7 +7,7 @@ from datetime import date
 if len(sys.argv) == 2:
     sourceFolder = str(sys.argv[1]) + "/"
 else:
-    print("Please specify a path. (Use /)")
+    print("Please specify a path. (Use / instead of \\ on Windows)")
     exit(1)
 
 filesInFolder = os.listdir(sourceFolder)
