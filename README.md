@@ -8,4 +8,4 @@ py main.py <path>
 
 
 
-On Windows also use "/" instead of "\"
+On Windows also use "/" instead of "\\"
